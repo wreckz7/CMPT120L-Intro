@@ -1,3 +1,0 @@
-John Zelle
-Zaphod Beeblebrox
-Guido VanRossum
